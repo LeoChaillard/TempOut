@@ -1,0 +1,11 @@
+Model Information:
+* title:	Link - The Legend of Zelda
+* source:	https://sketchfab.com/3d-models/link-the-legend-of-zelda-cb4e8260d81044889362f4cff1dc643b
+* author:	FlaminiaCav (https://sketchfab.com/flaminiacav)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Link - The Legend of Zelda" (https://sketchfab.com/3d-models/link-the-legend-of-zelda-cb4e8260d81044889362f4cff1dc643b) by FlaminiaCav (https://sketchfab.com/flaminiacav) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
